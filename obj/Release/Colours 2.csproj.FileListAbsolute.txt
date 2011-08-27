@@ -1,0 +1,26 @@
+E:\Gid\Coding\Colours 2\bin\Release\Colours 2.exe
+E:\Gid\Coding\Colours 2\bin\Release\Colours 2.pdb
+E:\Gid\Coding\Colours 2\obj\Release\ResolveAssemblyReference.cache
+E:\Gid\Coding\Colours 2\obj\Release\Colours.Properties.Resources.resources
+E:\Gid\Coding\Colours 2\obj\Release\Colours 2.csproj.GenerateResource.Cache
+E:\Gid\Coding\Colours 2\obj\Release\Colours 2.exe
+E:\Gid\Coding\Colours 2\obj\Release\Colours 2.pdb
+D:\Coding\Colours 2\obj\Release\Colours 2.exe
+D:\Coding\Colours 2\obj\Release\Colours 2.pdb
+D:\Coding\Colours 2\bin\Release\Colours 2.exe
+D:\Coding\Colours 2\bin\Release\Colours 2.pdb
+D:\Coding\Colours 2\obj\Release\ResolveAssemblyReference.cache
+D:\Coding\Colours 2\obj\Release\Colours.Properties.Resources.resources
+D:\Coding\Colours 2\obj\Release\Colours 2.csproj.GenerateResource.Cache
+D:\Coding\Colours 2\obj\Release\Colours.ColorBox.resources
+D:\Coding\Colours 2\obj\Release\Colours.FrmColours.resources
+D:\Coding\PetProjects\Colours 2\obj\Release\Colours 2.exe
+D:\Coding\PetProjects\Colours 2\obj\Release\Colours 2.pdb
+D:\Coding\PetProjects\Colours 2\bin\Release\Colours 2.exe
+D:\Coding\PetProjects\Colours 2\bin\Release\Colours 2.pdb
+D:\Coding\PetProjects\Colours 2\obj\Release\ResolveAssemblyReference.cache
+D:\Coding\PetProjects\Colours 2\obj\Release\Colours.ColorBox.resources
+D:\Coding\PetProjects\Colours 2\obj\Release\Colours.FrmColours.resources
+D:\Coding\PetProjects\Colours 2\obj\Release\Colours.Properties.Resources.resources
+D:\Coding\PetProjects\Colours 2\obj\Release\ResGen.read.1.tlog
+D:\Coding\PetProjects\Colours 2\obj\Release\ResGen.write.1.tlog
