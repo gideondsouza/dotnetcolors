@@ -1,0 +1,7 @@
+E:\Gid\Coding\Colours 2\obj\Debug\Colours 2.exe
+E:\Gid\Coding\Colours 2\obj\Debug\Colours 2.pdb
+E:\Gid\Coding\Colours 2\bin\Debug\Colours 2.exe
+E:\Gid\Coding\Colours 2\bin\Debug\Colours 2.pdb
+E:\Gid\Coding\Colours 2\obj\Debug\ResolveAssemblyReference.cache
+E:\Gid\Coding\Colours 2\obj\Debug\Colours.Properties.Resources.resources
+E:\Gid\Coding\Colours 2\obj\Debug\Colours 2.csproj.GenerateResource.Cache
