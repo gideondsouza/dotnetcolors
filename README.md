@@ -8,7 +8,7 @@ While writing C# often I had to look out for what the .NET Colours from the Colo
 The C# community on usenet, yes [usenet](https://en.wikipedia.org/wiki/Usenet) liked it. I got suggestions and help and tuned the app into **Colours 2** which is the name you'll see in the source.  ,
 
 ## Features:
-* the boxes arrange themselves to fill the window as it is resized.
+* The boxes arrange themselves to fill the window as it is resized.
 
 * Clicking the colour box , highlights( thcopies the hex code to the clipboard.
 ## Contibute 
