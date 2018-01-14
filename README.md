@@ -10,7 +10,7 @@ The C# community on usenet, yes [usenet](https://en.wikipedia.org/wiki/Usenet) l
 ## Features:
 * The boxes arrange themselves to fill the window as it is resized.
 
-* Clicking the colour box , highlights( thcopies the hex code to the clipboard.
+* Clicking the colour box , highlights it and then copies the hex code to the clipboard.
 ## Contibute 
 Any type of contributions are warmly welcome :blush:
 
