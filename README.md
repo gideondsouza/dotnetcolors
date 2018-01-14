@@ -3,7 +3,7 @@
 A handy app that displays all 141 .NET colours neatly.
 ![Screenshot of app](https://github.com/gideondsouza/dotnetcolors/raw/master/colours2_screenie_thumb.jpg)
 ## Origins 
-While writing C# often I had to figure out tediously what the .NET Colours from the Colour structure][2] Eg.[Color.MistyRose][1] and [Color.Azure][3].looked like visually.So I wrote this little utility in 2007 or so.
+While writing C# often I had to figure out tediously what the .NET Colours from the [Colour structure][2] Eg.[Color.MistyRose][1] and [Color.Azure][3].looked like visually.So I wrote this little utility in 2007 or so.
 
 The C# community on usenet, yes [usenet](https://en.wikipedia.org/wiki/Usenet) liked it. I got suggestions and help and tuned the app into **Colours 2** which is the name you'll see in the source.  ,
 
